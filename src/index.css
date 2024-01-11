@@ -1,0 +1,17 @@
+* {
+  margin: o;
+}
+
+body {
+  background: url(assets/1.jpg);
+  height: 100vh;
+
+  left: 0;
+
+  overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

@@ -1,0 +1,30 @@
+.inputbox {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.input-field > h1 {
+  margin-top: 10px;
+}
+
+.input-field > img {
+  width: 15%;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+.input-field {
+  padding: 10%;
+  text-align: center;
+  background-color: red;
+  border-radius: 10px;
+  padding-top: 0px;
+  padding-bottom: 50px;
+  margin: 20px;
+}
+.inputboxfield > button {
+  margin-top: 30px;
+  text-transform: inherit !important;
+  background-color: gray;
+}
